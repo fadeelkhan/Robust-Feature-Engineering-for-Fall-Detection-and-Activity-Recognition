@@ -1,7 +1,7 @@
 # Robust-Feature-Engineering-for-Fall-Detection-and-Activity-Recognition
 # Fadeel Khan, Matthew Su, Caleb Huang
 
-## Please read our project report: https://drive.google.com/file/d/1OOjIDrJzmbHHKspnRTApaD2AZK8231sn/view?usp=sharing
+## Please read our project report: https://drive.google.com/file/d/1OOjIDrJzmbHHKspnRTApaD2AZK8231sn/view?usp=drive_link
 
 MobiFall data Available at: https://bmi.hmu.gr/the-mobifall-and-mobiact-datasets-2/
 
